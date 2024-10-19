@@ -1,0 +1,13 @@
+{
+  "config": {
+    "MinWrap": 5,
+    "MaxWrap": 7,
+    "MinUnWrap": 5,
+    "MaxUnWrap": 6,
+    "Loop": 17,
+    "MinETHForWrap": 0.00003,
+    "MaxETHForWrap": 0.00005,
+    "MinWETHForUnWrap": 0.00003,
+    "MaxWETHForUnWrap": 0.00004
+  }
+}
