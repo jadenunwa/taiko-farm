@@ -34,3 +34,5 @@ CÀI ĐẶT TOOL
    ```bash
    node main.js
    ```
+
+ae nào k hiểu gì thì vào group hỏi nhé
